@@ -1,5 +1,6 @@
 # VBA-challenge
 Multiple Year Stock Analysis:
+
 Objective: Draw Yearly Summarized information from daily transactional data stock tickers.
 
 VBA Script Process Flow:
